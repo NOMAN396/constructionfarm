@@ -1,0 +1,58 @@
+.trainers{
+    background: #8893a1;
+}
+
+.trainers .member {
+    text-align: center;
+    padding: 30px 30px 20px;
+
+    margin-bottom: 2px;
+    background: #4a5857;
+    border: 1px solid #210c60;
+  }
+  
+  .trainers .member img {
+    margin:1px 1px 3px 1px;
+  }
+  
+  .trainers .member .member-content {
+    padding: 2px 2px 3px 2px;
+  }
+  
+  .trainers .member h4 {
+    font-weight: 700;
+    margin-bottom: 2px;
+    font-size: 18px;
+  }
+  
+  .trainers .member span {
+    font-style: italic;
+    display: block;
+    font-size: 13px;
+  }
+  
+  .trainers .member p {
+    padding-top: 10px;
+    font-size: 14px;
+    font-style: italic;
+    color: #aaaaaa;
+  }
+  
+  .trainers .member .social {
+    margin-top: 15px;
+  }
+  
+  .trainers .member .social a {
+    color: #7e9486;
+    transition: 0.3s;
+  }
+  
+  .trainers .member .social a:hover {
+    color: #5fcf80;
+  }
+  
+  .trainers .member .social i {
+    font-size: 18px;
+    margin: 0 2px;
+  }
+  

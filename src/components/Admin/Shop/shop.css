@@ -1,0 +1,24 @@
+.container7{
+    width: 100%;
+    margin-left:300px;
+}
+
+ 
+
+ 
+td a .edit{
+    margin-left: 10px !important;
+    background-color: rgb(43, 67, 189);
+    width: 35px;
+    border-radius: 5px;
+    color: azure;
+    padding: 5px 10px;
+}
+td a .delete{
+    margin-left: 10px !important;
+    background-color: rgb(226, 86, 86);
+    width: 35px;
+    border-radius: 5px;
+    color: azure;
+    padding: 5px 10px;
+}
